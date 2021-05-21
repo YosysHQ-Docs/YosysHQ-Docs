@@ -26,6 +26,6 @@ highlight_language = 'systemverilog'
 #        'YosysHQ Docs' : 'https://yosyshq.readthedocs.io' ,
 #        'YosysHQ Website' : 'https://www.yosyshq.com',
 #    },
-##   'logo' : 'logo.png',
+#    'logo' : 'logo.png',
 #    'fixed_sidebar' : True,
 #}
