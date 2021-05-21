@@ -1,4 +1,4 @@
-project = "YosysHQ-Docs"
+project = "YosysHQ Docs"
 author = "YosysHQ Gmbh"
 copyright ="2021 YosysHQ Gmbh"
 
@@ -18,3 +18,14 @@ html_css_files = [
 # code blocks style 
 pygments_style = 'colorful'
 highlight_language = 'systemverilog'
+
+# HTML theme
+#html_theme = 'alabaster'
+#html_theme_options = {
+#    'extra_nav_links' : {
+#        'YosysHQ Docs' : 'https://yosyshq.readthedocs.io' ,
+#        'YosysHQ Website' : 'https://www.yosyshq.com',
+#    },
+##   'logo' : 'logo.png',
+#    'fixed_sidebar' : True,
+#}
