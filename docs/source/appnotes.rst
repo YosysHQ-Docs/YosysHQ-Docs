@@ -2,7 +2,7 @@ YosysHQ Application Notes
 =========================
 
 
-YosysHQ Formal Basics and Methods: AppNotes 1xx
+Formal Basics and Methods: YosysHQ AppNotes 1xx
 -----------------------------------------------
 
 - 100 Intro to Formal Verification
@@ -13,10 +13,10 @@ YosysHQ Formal Basics and Methods: AppNotes 1xx
 - 107 Adding Properties with Bind
 - 108 Building regex-based checker FSMs
 - 109 Property Checking with SVA
-- `120 Weak precondition cover and witness for SVA properties </projects/AppNote120>`_
+- `120 Weak precondition cover and witness for SVA properties <https://yosyshq-docs.readthedocs.io/projects/AppNote120>`_
 
 
-YosysHQ Formal Abstractions: AppNotes 2xx
+Formal Abstractions: YosysHQ AppNotes 2xx
 -----------------------------------------
 
 - 200 Intro to using and writing abstractions
@@ -28,25 +28,25 @@ YosysHQ Formal Abstractions: AppNotes 2xx
 - 221 Data transport abstraction with existential path quantifier
 
 
-YosysHQ Formal Off-the-Shelve VIP: AppNotes 3xx
+Formal Off-the-Shelve VIP: YosysHQ AppNotes 3xx
 -----------------------------------------------
 
 - 300 Intro to Off-the-Shelve Formal Verification IP (VIP)
 - 301 Using the YoysHQ AXI4-Lite formal VIP
 
 
-YosysHQ Mutation Coverage with Yosys (MCY): AppNotes 4xx
+Mutation Coverage with Yosys (MCY): YosysHQ AppNotes 4xx
 --------------------------------------------------------
 
 
-YosysHQ Equivalence Checking with Yosys (EQY): AppNotes 5xx
+Equivalence Checking with Yosys (EQY): YosysHQ AppNotes 5xx
 -----------------------------------------------------------
 
 
-YosysHQ Fast CXXRTL Simulation with Yosys (CXY): AppNotes 6xx
+Fast CXXRTL Simulation with Yosys (CXY): YosysHQ AppNotes 6xx
 -------------------------------------------------------------
 
 
-YosysHQ Example Projects and Demonstrators: AppNotes 9xx
+Example Projects and Demonstrators: YosysHQ AppNotes 9xx
 --------------------------------------------------------
 
