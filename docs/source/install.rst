@@ -6,7 +6,7 @@ Installing Tabby CAD Suite or OSS CAD Suite
 -------------------------------------------
 
 * `Contact YosysHQ <https://www.yosyshq.com/contact>`_ for a Tabby CAD Eval License and download link
-* `Follow the `Install Instructions on GitHub <https://github.com/YosysHQ/oss-cad-suite-build#installation>`_
+* Follow the `Install Instructions on GitHub <https://github.com/YosysHQ/oss-cad-suite-build#installation>`_
 
 
 Getting Started with Formal Verification
