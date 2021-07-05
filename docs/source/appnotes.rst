@@ -12,7 +12,7 @@ Formal Basics and Methods: YosysHQ AppNotes 1xx
 - 106 Writing formal test-benches
 - 107 Adding Properties with Bind
 - 108 Building regex-based checker FSMs
-- 109 Property Checking with SVA
+- `109 Property Checking with SVA <https://yosyshq.readthedocs.io/projects/ap109>`_
 - `120 Weak precondition cover and witness for SVA properties <https://yosyshq.readthedocs.io/projects/ap120>`_
 
 
