@@ -10,13 +10,14 @@ Yosys Documentation
 Formal Assertions-Based Verification (ABV) with SymbiYosys (SBY)
 ----------------------------------------------------------------
 
-- `SymbiYosys Reference Manual <https://yosyshq.readthedocs.io/projects/sby>`_
+- `SymbiYosys (SBY) Reference Manual <https://yosyshq.readthedocs.io/projects/sby>`_
 - ...TBD...
 
 Mutation Coverage with Yosys (MCY)
 ----------------------------------
 
-TBD
+- `MCY Reference Manual <https://yosyshq.readthedocs.io/projects/mcy>`_
+- ...TBD...
 
 Equivalence Checking with Yosys (EQY)
 -------------------------------------
