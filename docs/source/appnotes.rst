@@ -1,9 +1,15 @@
 YosysHQ Application Notes
 =========================
 
+FAQs and Flows
+--------------
 
-Formal Basics and Methods: YosysHQ AppNotes 1xx
------------------------------------------------
+- 010 Frequently Asked Questions (FAQs)
+- 020 The Project Icestorm Synthesis Flow for Lattice iCE40 FPGAs
+- 030 The Project Trellis Synthesis Flow for Lattice ECP5 FPGAs
+
+Formal Basics and Methods
+-------------------------
 
 - 100 Intro to Formal Verification
 - 101 Using SymbiYosys (SBY)
@@ -15,9 +21,8 @@ Formal Basics and Methods: YosysHQ AppNotes 1xx
 - `109 Property Checking with SVA <https://yosyshq.readthedocs.io/projects/ap109>`_
 - `120 Weak precondition cover and witness for SVA properties <https://yosyshq.readthedocs.io/projects/ap120>`_
 
-
-Formal Abstractions: YosysHQ AppNotes 2xx
------------------------------------------
+Formal Abstractions
+-------------------
 
 - 200 Intro to using and writing abstractions
 - 201 Counter abstractions
@@ -27,26 +32,29 @@ Formal Abstractions: YosysHQ AppNotes 2xx
 - 220 Data transport abstraction with Wolper method
 - 221 Data transport abstraction with existential path quantifier
 
-
-Formal Off-the-Shelve VIP: YosysHQ AppNotes 3xx
------------------------------------------------
+Formal Off-the-Shelve VIP
+-------------------------
 
 - 300 Intro to Off-the-Shelve Formal Verification IP (VIP)
-- 301 Using the YoysHQ AXI4-Lite formal VIP
+- 310 Using the YosysHQ Qicktrace Formal Primitives (QTFP) Library
+- 320 Using the YosysHQ AXI4-Lite formal VIP
 
+Mutation Coverage with Yosys (MCY)
+----------------------------------
 
-Mutation Coverage with Yosys (MCY): YosysHQ AppNotes 4xx
---------------------------------------------------------
+- 400 Intro to Mutation Coverage with Yosys (MCY)
 
+Equivalence Checking with Yosys (EQY)
+-------------------------------------
 
-Equivalence Checking with Yosys (EQY): YosysHQ AppNotes 5xx
------------------------------------------------------------
+- 500 Intro to Equivalence Checking with Yosys (EQY)
 
+Fast CXXRTL Simulation with Yosys (CXY)
+---------------------------------------
 
-Fast CXXRTL Simulation with Yosys (CXY): YosysHQ AppNotes 6xx
--------------------------------------------------------------
+- 600 Intro to Fast CXXRTL Simulation with Yosys (CXY)
 
+Example Projects and Demonstrators
+----------------------------------
 
-Example Projects and Demonstrators: YosysHQ AppNotes 9xx
---------------------------------------------------------
-
+- 900 Intro to YosysHQ Example Projects and Demonstrators
