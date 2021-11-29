@@ -5,8 +5,13 @@ FAQs and Flows
 --------------
 
 - 010 Frequently Asked Questions (FAQs)
-- 020 The Project Icestorm Synthesis Flow for Lattice iCE40 FPGAs
-- 030 The Project Trellis Synthesis Flow for Lattice ECP5 FPGAs
+- 021 FAQ and Tabby CAD Suite Migration Guide for Jasper Gold Users
+- 022 FAQ and Tabby CAD Suite Migration Guide for OneSpin 360 Users
+- 023 FAQ and Tabby CAD Suite Migration Guide for VC Formal Users
+- 024 FAQ and Tabby CAD Suite Migration Guide for Questa Formal Users
+- 041 FAQ and Tabby CAD Suite Migration Guide for Xilinx Vivado Users
+- 081 FAQ and Manual for the Project Icestorm Lattice iCE40 FPGA Flow
+- 082 FAQ and Manual for The Project Trellis Lattice ECP5 FPGA Flow
 
 Formal Basics and Methods
 -------------------------
@@ -32,10 +37,10 @@ Formal Abstractions
 - 220 Data transport abstraction with Wolper method
 - 221 Data transport abstraction with existential path quantifier
 
-Formal Off-the-Shelve VIP
--------------------------
+Formal Off-the-Shelf VIP
+------------------------
 
-- 300 Intro to Off-the-Shelve Formal Verification IP (VIP)
+- 300 Intro to Off-the-Shelf Formal Verification IP (VIP)
 - 310 Using the YosysHQ Qicktrace Formal Primitives (QTFP) Library
 - 320 Using the YosysHQ AXI4-Lite formal VIP
 
