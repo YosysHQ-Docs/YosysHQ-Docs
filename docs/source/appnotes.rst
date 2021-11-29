@@ -4,7 +4,9 @@ YosysHQ Application Notes
 FAQs and Flows
 --------------
 
-- 010 Frequently Asked Questions (FAQs)
+- 011 Tabby CAD Introduction and FAQs for Formal Use
+- 012 Tabby CAD Introduction and FAQs for FPGA Synthesis Use
+- 013 Tabby CAD Introduction and FAQs for ASIC Synthesis Use
 - 021 FAQ and Tabby CAD Suite Migration Guide for Jasper Gold Users
 - 022 FAQ and Tabby CAD Suite Migration Guide for OneSpin 360 Users
 - 023 FAQ and Tabby CAD Suite Migration Guide for VC Formal Users
