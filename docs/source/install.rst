@@ -6,6 +6,8 @@ Installing Tabby CAD Suite or OSS CAD Suite
 -------------------------------------------
 
 * `Contact YosysHQ <https://www.yosyshq.com/contact>`_ for a Tabby CAD Eval License and download link
+* Set the YOSYSHQ_LICENSE environment variable to point to the license file:
+  ``export YOSYSHQ_LICENSE=/path/to/license.lic``
 * Follow the `Install Instructions on GitHub <https://github.com/YosysHQ/oss-cad-suite-build#installation>`_
 
 
