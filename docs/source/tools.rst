@@ -4,7 +4,8 @@ YosysHQ Tool Documentation
 Yosys Documentation
 -------------------
 
-- Yosys Command Reference
+- `Yosys Command Reference <http://yosyshq.net/yosys/documentation.html>`_ (scroll down)
+- `Yosys Manual (PDF) <https://github.com/YosysHQ/yosys-manual-build/releases/download/manual/manual.pdf>`_
 - ...TBD...
 
 Formal Assertions-Based Verification (ABV) with SymbiYosys (SBY)
