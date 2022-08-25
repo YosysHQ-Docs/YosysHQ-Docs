@@ -9,8 +9,8 @@ Verilog-2005 support and provides a basic set of synthesis algorithms for variou
 application domains. Yosys is the core component of most our implementation and 
 verification flows.
 
-- `Yosys Command Reference <http://yosyshq.net/yosys/documentation.html>`_ (scroll down)
-- `Yosys Manual (PDF) <https://github.com/YosysHQ/yosys-manual-build/releases/download/manual/manual.pdf>`_
+- `Yosys command reference <http://yosyshq.net/yosys/documentation.html>`_ (scroll down)
+- `Yosys manual (PDF) <https://github.com/YosysHQ/yosys-manual-build/releases/download/manual/manual.pdf>`_
 - ...TBD...
 
 sby
@@ -21,7 +21,7 @@ properties, liveness properties, and reachability.  It can support: additional
 attributes for management of unconstrained signals; synchronous, asynchronous, 
 and multi-clock designs, resets and latches.
 
-- `SymbiYosys (SBY) Reference Manual <https://yosyshq.readthedocs.io/projects/sby>`_
+- `sby reference manual <https://yosyshq.readthedocs.io/projects/sby>`_
 - ...TBD...
 
 mcy
@@ -32,7 +32,7 @@ improve testbench coverage. If you have a testbench, and it fails, you know you
 have a problem. But if it passes, you know nothing if you don’t know what your 
 testbench is actually testing for.
 
-- `MCY Reference Manual <https://yosyshq.readthedocs.io/projects/mcy>`_
+- `mcy reference manual <https://yosyshq.readthedocs.io/projects/mcy>`_
 - ...TBD...
 
 eqy
