@@ -13,38 +13,29 @@ verification flows.
 - `Yosys manual (PDF) <https://github.com/YosysHQ/yosys-manual-build/releases/download/manual/manual.pdf>`_
 - ...TBD...
 
-sby
+SBY
 ---
 
-sby is a front-end for Yosys-based formal verification flows for safety 
-properties, liveness properties, and reachability.  It can support: additional 
-attributes for management of unconstrained signals; synchronous, asynchronous, 
-and multi-clock designs, resets and latches.
+SBY is a front-end for Yosys-based formal verification flows for safety 
+properties, liveness properties, and reachability.  Different engines offer a
+variety of solving methods in order to find the fastest solution.
 
-- `sby reference manual <https://yosyshq.readthedocs.io/projects/sby>`_
+- `SBY reference manual <https://yosyshq.readthedocs.io/projects/sby>`_
+- `Supported engines <https://yosyshq.readthedocs.io/projects/sby/en/latest/reference.html#engines-section>`_
 - ...TBD...
 
-mcy
+MCY
 ---
 
-mcy is a new tool to help digital designers and project managers understand and 
-improve testbench coverage. If you have a testbench, and it fails, you know you 
-have a problem. But if it passes, you know nothing if you don’t know what your 
-testbench is actually testing for.
+MCY uses Yosys to provide mutation coverage of testbenches.  By using built-in 
+equivalence checking, the common problem with equivalent mutations can be 
+avoided, and 100% coverage can be targeted.
 
-- `mcy reference manual <https://yosyshq.readthedocs.io/projects/mcy>`_
+- `MCY reference manual <https://yosyshq.readthedocs.io/projects/mcy>`_
 - ...TBD...
 
-eqy
+EQY
 ---
 
-eqy is an upcoming tool to provide Yosys-based equivalence checking for formal 
+EQY is an upcoming tool to provide Yosys-based equivalence checking for formal 
 verification.
-
-cxy
----
-
-cxy is a high-performance simulation back-end for Yosys. It writes optimized C++ 
-code that simulates the design. The generated code requires a driver program that
-instantiates the design, toggles its clock, and interacts with its ports. cxy 
-also supports replacing parts of the design with black boxes implemented in C++. 
