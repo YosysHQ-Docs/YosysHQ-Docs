@@ -11,7 +11,6 @@ verification flows.
 
 - `Yosys command reference <http://yosyshq.net/yosys/documentation.html>`_ (scroll down)
 - `Yosys manual (PDF) <https://github.com/YosysHQ/yosys-manual-build/releases/download/manual/manual.pdf>`_
-- ...TBD...
 
 SBY
 ---
@@ -22,7 +21,6 @@ variety of solving methods in order to find the fastest solution.
 
 - `SBY reference manual <https://yosyshq.readthedocs.io/projects/sby>`_
 - `Supported engines <https://yosyshq.readthedocs.io/projects/sby/en/latest/reference.html#engines-section>`_
-- ...TBD...
 
 MCY
 ---
@@ -32,7 +30,6 @@ equivalence checking, the common problem with equivalent mutations can be
 avoided, and 100% coverage can be targeted.
 
 - `MCY reference manual <https://yosyshq.readthedocs.io/projects/mcy>`_
-- ...TBD...
 
 EQY
 ---
