@@ -1,32 +1,38 @@
 YosysHQ Tool Documentation
 ==========================
 
-Yosys Documentation
--------------------
+Yosys
+-----
 
-- `Yosys Command Reference <http://yosyshq.net/yosys/documentation.html>`_ (scroll down)
-- `Yosys Manual (PDF) <https://github.com/YosysHQ/yosys-manual-build/releases/download/manual/manual.pdf>`_
-- ...TBD...
+Yosys is a framework for RTL synthesis and more. It currently has extensive 
+Verilog-2005 support and provides a basic set of synthesis algorithms for various 
+application domains. Yosys is the core component of most our implementation and 
+verification flows.
 
-Formal Assertions-Based Verification (ABV) with SymbiYosys (SBY)
-----------------------------------------------------------------
+- `Yosys command reference <http://yosyshq.net/yosys/documentation.html>`_ (scroll down)
+- `Yosys manual (PDF) <https://github.com/YosysHQ/yosys-manual-build/releases/download/manual/manual.pdf>`_
 
-- `SymbiYosys (SBY) Reference Manual <https://yosyshq.readthedocs.io/projects/sby>`_
-- ...TBD...
+SBY
+---
 
-Mutation Coverage with Yosys (MCY)
-----------------------------------
+SBY is a front-end for Yosys-based formal verification flows for safety 
+properties, liveness properties, and reachability.  Different engines offer a
+variety of solving methods in order to find the fastest solution.
 
-- `MCY Reference Manual <https://yosyshq.readthedocs.io/projects/mcy>`_
-- ...TBD...
+- `SBY reference manual <https://yosyshq.readthedocs.io/projects/sby>`_
+- `Supported engines <https://yosyshq.readthedocs.io/projects/sby/en/latest/reference.html#engines-section>`_
 
-Equivalence Checking with Yosys (EQY)
--------------------------------------
+MCY
+---
 
-TBD
+MCY uses Yosys to provide mutation coverage of testbenches.  By using built-in 
+equivalence checking, the common problem with equivalent mutations can be 
+avoided, and 100% coverage can be targeted.
 
-Fast CXXRTL Simulation with Yosys (CXY)
----------------------------------------
+- `MCY reference manual <https://yosyshq.readthedocs.io/projects/mcy>`_
 
-TBD
+EQY
+---
 
+EQY is an upcoming tool to provide Yosys-based equivalence checking for formal 
+verification.
