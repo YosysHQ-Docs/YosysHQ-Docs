@@ -44,7 +44,7 @@ Formal Off-the-Shelf VIP
 
 - 300 Intro to Off-the-Shelf Formal Verification IP (VIP)
 - 310 Using the YosysHQ Qicktrace Formal Primitives (QTFP) Library
-- 320 Using the YosysHQ AXI4-Lite formal VIP
+- `320 Using the YosysHQ AXI4-Lite formal VIP <https://yosyshq.readthedocs.io/projects/ap320>`_
 
 Mutation Coverage with Yosys (MCY)
 ----------------------------------
