@@ -9,8 +9,8 @@ Verilog-2005 support and provides a basic set of synthesis algorithms for variou
 application domains. Yosys is the core component of most our implementation and 
 verification flows.
 
-- `Yosys command reference <http://yosyshq.net/yosys/documentation.html>`_ (scroll down)
-- `Yosys manual (PDF) <https://github.com/YosysHQ/yosys-manual-build/releases/download/manual/manual.pdf>`_
+- `Yosys manual <https://yosys.readthedocs.io/en/latest/>`_
+- `Yosys command reference <https://yosys.readthedocs.io/en/latest/cmd_ref.html>`_
 
 SBY
 ---
