@@ -26,10 +26,12 @@ Device Identifiers
 
 **Q:** What are the supported types of Device Identifiers?
 
-**A:** Currently we support 3 types of Device ID:
+**A:** Currently we support the following types of Device ID:
 1. MAC Address
 2. AWS instance ID
-3. GitHub repository owner (for private repositories only)
+3. Scaleway instance ID
+4. Google Cloud instance ID
+5. GitHub repository owner (for private repositories only)
 
 **Q:** Can you add support for another type of Device ID?
 
