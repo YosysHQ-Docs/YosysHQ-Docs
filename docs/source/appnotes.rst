@@ -5,6 +5,7 @@ FAQs and Flows
 --------------
 
 - 011 Tabby CAD Introduction and FAQs for Formal Use
+
 .. - 012 Tabby CAD Introduction and FAQs for FPGA Synthesis Use
 .. - 013 Tabby CAD Introduction and FAQs for ASIC Synthesis Use
 .. - 021 FAQ and Tabby CAD Suite Migration Guide for Jasper Gold Users
@@ -25,6 +26,7 @@ Formal Basics and Methods
 .. - 106 Writing formal test-benches
 .. - 107 Adding Properties with Bind
 .. - 108 Building regex-based checker FSMs
+
 - `109 Property Checking with SVA <https://yosyshq.readthedocs.io/projects/ap109>`_
 - `120 Weak precondition cover and witness for SVA properties <https://yosyshq.readthedocs.io/projects/ap120>`_
 
@@ -45,6 +47,7 @@ Formal Off-the-Shelf VIP
 
 .. - 300 Intro to Off-the-Shelf Formal Verification IP (VIP)
 .. - 310 Using the YosysHQ Qicktrace Formal Primitives (QTFP) Library
+
 - `320 Using the YosysHQ AXI4-Lite formal VIP <https://yosyshq.readthedocs.io/projects/ap320>`_
 
 Mutation Coverage with Yosys (MCY)
