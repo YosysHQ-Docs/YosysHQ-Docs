@@ -34,5 +34,14 @@ avoided, and 100% coverage can be targeted.
 EQY
 ---
 
-EQY is an upcoming tool to provide Yosys-based equivalence checking for formal 
+EQY is a tool to provide Yosys-based equivalence checking for formal 
 verification.
+
+- `EQY reference manual <https://yosyshq.readthedocs.io/projects/eqy>`_
+
+
+Formal Off-the-Shelf VIP
+------------------------
+
+- `riscv-formal <https://github.com/YosysHQ/riscv-formal>` is a framework for formal verification of RISC-V processors.
+- `SVA-AXI4-FVIP <https://yosyshq.readthedocs.io/projects/ap320>`_ is a set of SVA properties that can be used to verify modules implementing any of the AXI4 and AXI4-Lite manager, subordinate, or interconnect interfaces.
