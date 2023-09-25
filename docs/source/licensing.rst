@@ -45,7 +45,7 @@ Server-based licensing
 
 **Q:** What are the restrictions on floating licenses?
 
-**A:** Floating licenses have the same processor/hardware thread restrictions as node-locked licenses. The user must check out a number of licenses sufficient for the device according to the same rules (one license per 32 processor cores). It is not possible to check out fractional licenses, the number of processors is always rounded up to the nearest multiple of 32. Once the licenses have been checked out, there are no limitations on the number of processes running concurrently on the device.
+**A:** Floating licenses have the same processor/hardware thread restrictions as node-locked licenses. The user must check out a number of licenses sufficient for the device according to the same rules (one license per 32 processor cores). It is not possible to check out fractional licenses, or fewer licenses than required to fully utilize the target machine; the number of processors is always rounded up to the nearest multiple of 32. Once the licenses have been checked out, there are no limitations on the number of processes running concurrently on the device.
 
 Unlike node-locked licenses, floating licenses cannot be shared between different user accounts on the same device.
 
