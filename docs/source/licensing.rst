@@ -6,10 +6,10 @@ Options available
 
 **Q:** What are the licensing options available?
 
-**A:** There are two licensing options:
+**A:** There are these licensing options:
 
- - Node-locked licenses
- - Floating licenses (via FlexNet Publisher, for customers running their own license server)
+- Node-locked licenses
+- Floating licenses (via FlexNet Publisher, for customers running their own license server)
 
 Node-locked licenses
 --------------------
@@ -17,7 +17,9 @@ Node-locked licenses
 **Q:** What are the restrictions on node-locked licenses?
 
 **A:** Node licenses have two restrictions:
+
 1. They only work on a specific device identified by a unique Device Identifier.
+
 2. One node license is limited to devices with up to 32 processor cores/hardware threads (as returned by `nproc`). For machines with nproc > 32, multiple node licenses must be purchased.
 
 There are no restrictions on the number of concurrently running processes, number of users, total execution time, etc. The Tabby CAD Suite does not collect or transmit any usage data, all checks are performed locally.
