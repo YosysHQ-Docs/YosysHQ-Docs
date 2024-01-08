@@ -4,7 +4,7 @@ YosysHQ Application Notes
 FAQs and Flows
 --------------
 
-- 011 Tabby CAD Introduction and FAQs for Formal Use
+- `011 Tabby CAD FAQs for Formal Use <https://yosyshq.readthedocs.io/projects/ap011>`_
 
 .. - 012 Tabby CAD Introduction and FAQs for FPGA Synthesis Use
 .. - 013 Tabby CAD Introduction and FAQs for ASIC Synthesis Use
