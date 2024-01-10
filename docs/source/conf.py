@@ -11,7 +11,7 @@ html_css_files = ['yosyshq.css']
 html_sidebars = {'**': ['util/searchbox.html', 'util/sidetoc.html']}
 
 # These folders are copied to the documentation's HTML output
-html_static_path = ['../static', "../images"]
+html_static_path = ['../static']
 
 # code blocks style 
 pygments_style = 'colorful'
