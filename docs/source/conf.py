@@ -1,28 +1,27 @@
 #!/usr/bin/env python3
 project = 'YosysHQ Docs'
 author = 'YosysHQ GmbH'
-copyright ='2021 YosysHQ GmbH'
+copyright = '2024 YosysHQ GmbH'
 
 # select HTML theme
-html_theme = 'press'
-html_logo = '../static/logo.png'
-html_favicon = '../static/favico.png'
-html_css_files = ['yosyshq.css']
-html_sidebars = {'**': ['util/searchbox.html', 'util/sidetoc.html']}
+html_theme = 'furo-ys'
+html_css_files = ['custom.css']
+html_theme_options: dict[str, any] = {}
+
+# this is the root doc, we don't need to provde links back here
+html_theme_options["brand_main_docs"] = None
+html_theme_options["brand_main_search"] = None
 
 # These folders are copied to the documentation's HTML output
-html_static_path = ['../static']
+html_static_path = ['_static']
 
 # code blocks style 
 pygments_style = 'colorful'
 highlight_language = 'systemverilog'
 
-html_theme_options = {
-    'external_links' : [
-        ('YosysHQ Docs', 'https://yosyshq.readthedocs.io'),
-        ('Blog', 'https://blog.yosyshq.com'),
-        ('Website', 'https://www.yosyshq.com'),
-    ],
-}
-
+# generate section labels from their heading
 extensions = ['sphinx.ext.autosectionlabel']
+
+# ensure that autosectionlabel will produce unique names
+autosectionlabel_prefix_document = True
+autosectionlabel_maxdepth = 1
