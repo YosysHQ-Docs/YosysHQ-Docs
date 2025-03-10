@@ -43,5 +43,5 @@ verification.
 Formal Off-the-Shelf VIP
 ------------------------
 
-- `riscv-formal <https://github.com/YosysHQ/riscv-formal>`_ is a framework for formal verification of RISC-V processors.
+- `riscv-formal <https://yosyshq.readthedocs.io/projects/riscv-formal>`_ is a framework for formal verification of RISC-V processors.
 - `SVA-AXI4-FVIP <https://yosyshq.readthedocs.io/projects/ap320>`_ is a set of SVA properties that can be used to verify modules implementing any of the AXI4 and AXI4-Lite manager, subordinate, or interconnect interfaces.
