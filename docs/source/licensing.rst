@@ -33,6 +33,7 @@ Device Identifiers
 **A:** Currently we support the following types of Device ID:
 
 #. MAC Address
+#. Hardware UUID (macOS)
 #. AWS instance ID
 #. Scaleway instance ID
 #. Google Cloud instance ID
@@ -41,6 +42,10 @@ Device Identifiers
 **Q:** Can you add support for another type of Device ID?
 
 **A:** We are happy to look into adding support for other kinds of identifiers, as long as they are reasonably unique and can be accessed from the running process.
+
+**Q:** How can I determine my Hardware UUID ?
+
+**A:** Run this command in Terminal: `ioreg -rd1 -c IOPlatformExpertDevice | grep IOPlatformUUID`
 
 Server-based licensing
 ----------------------
